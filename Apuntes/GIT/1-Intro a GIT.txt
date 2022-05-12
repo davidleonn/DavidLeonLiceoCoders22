@@ -3,4 +3,4 @@ Función Fetch: El comando git fetch descarga commits, archivos y referencias de
 Función Pull: El comando git pull se emplea para extraer y descargar contenido desde un repositorio remoto y actualizar al instante el repositorio local para reflejar ese contenido.
 Función Push: El comando git push se usa para cargar contenido del repositorio local a un repositorio remoto. El envío es la forma de transferir confirmaciones desde tu repositorio local a un repositorio remoto. Es el equivalente a git fetch, pero mientras que al recuperar se importan las confirmaciones a ramas locales, al enviar estas se exportan a ramas remotas.
 
-Muy buen trabajo!
+Muy buen trabajo!!!

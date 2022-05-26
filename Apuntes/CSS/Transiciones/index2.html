@@ -1,0 +1,21 @@
+<h1>
+    Especifique que la transición del elemento <div> debe tener una curva de velocidad de "entrada y salida".
+</h1>
+
+<div id="ejDos">This is a div</div>
+
+
+<style>
+    #ejDos {
+    width: 100px;
+    height: 100px;
+    background: red;
+    transition: width 2s;
+    transition-timing-function: ease-in-out;
+    }
+    
+    #ejDos:hover {
+      width: 300px;
+    }
+    </style>
+

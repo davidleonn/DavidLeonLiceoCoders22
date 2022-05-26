@@ -1,0 +1,22 @@
+.box1{
+    background-color: coral;
+    width: 49%;
+    height: 100px;
+}
+.box2{
+    background-color: coral;
+    padding: auto;
+    margin: 1px;
+    height: 400px;
+}
+.box3{
+    background-color: coral;
+     height: 200px;    
+}
+header>div{
+    display: inline-block;
+}
+footer>article{
+    display: inline-block;
+
+}

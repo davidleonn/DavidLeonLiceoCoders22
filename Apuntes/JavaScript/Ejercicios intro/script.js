@@ -19,3 +19,8 @@ var d = 2;
 alert(d); // Mensaje de alerta con el valor de d (2)
 
 
+
+
+
+var x = Math.floor(Math.random()*6)+1;
+console.log(x); //muestra numeros aleatorios entre 1 y 6

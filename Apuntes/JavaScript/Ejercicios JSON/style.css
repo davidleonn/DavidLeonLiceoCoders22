@@ -1,0 +1,13 @@
+header, content, footer {
+    border:3px solid black;
+    width: 100%;
+    min-height: 20px;
+    display: flex;   
+    
+}
+
+.alumnos{
+    border: 3px solid blue;
+    margin:5px;
+    width: 300px;
+}

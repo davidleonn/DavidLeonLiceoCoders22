@@ -16,9 +16,9 @@ function displayDataAlumnos(data){
 
 function alumnos_toHtml(alumnos){
     let alumnos_toHtml = `<article class="alumnos">\
-                                <h2><span>${alumnos.nombre}</h2></span>\
-                                <h2><span>${alumnos.edad}</h2></span>\
-                                <h2><span>${alumnos.ciudad}</h2></span>\
+                                <h2>Nombre: ${alumnos.nombre}</h2>\
+                                <h2>Edad: ${alumnos.edad}</h2>\
+                                <h2>Ciudad: ${alumnos.ciudad}</h2>\
                             </article>`;
     return alumnos_toHtml;
 }
